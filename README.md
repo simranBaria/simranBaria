@@ -1,6 +1,6 @@
-school account
-unity my detested
-she/her
+- school account
+- unity my detested
+- she/her
 
 <!---
 simranBaria/simranBaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
