@@ -1,5 +1,3 @@
-- school account
-- unity my detested
 - she/her
 
 <!---
